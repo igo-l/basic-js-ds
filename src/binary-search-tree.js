@@ -122,7 +122,4 @@ module.exports = class BinarySearchTree {
       } else
         return this.maxNode(tree.right);
     }
-
-module.exports = {
-  BinarySearchTree
 };
